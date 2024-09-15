@@ -65,7 +65,7 @@ Hello! I'm Reineir, an aspiring DevOps engineer with a passion for cloud computi
 - Feel free to reach out if you'd like to collaborate or just say hello!
 - [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reineir-duran-6a4791257/)
 - [![Message me on FB/Messenger](https://img.shields.io/badge/Message%20me%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reineir.duran.7/)
-- [![Email me on Gmail](https://img.shields.io/badge/Email%20me%20on%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reineitsamonteduran@gmail.com)
+- [![Email me on Gmail](https://img.shields.io/badge/Email%20me%20on%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reineirsamonteduran@gmail.com)
 
 ---
 
