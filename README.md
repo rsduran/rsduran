@@ -69,9 +69,7 @@ Hello! I'm Reineir, an aspiring DevOps engineer with a passion for cloud computi
 
 ---
 
-### 📊 My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsduran&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsduran&theme=dark&hide_border=false"/>
+  <img align="left" style="width: 45%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=rsduran&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img align="right" style="width: 45%; max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=rsduran&theme=dark&hide_border=false" />
 </div>
