@@ -6,7 +6,7 @@
 ## About Me ✨
 > Like a warrior sharpening his blade, I refine my skills daily, facing each challenge head-on. The road is rough and filled with setbacks, but I am unyielding. Each failure is just a stepping stone, every obstacle an opportunity to grow stronger.
 
-Hello! I'm Reineir, an aspiring Cloud DevOps engineer with a passion for cloud computing and automation. I love exploring new technologies and implementing efficient solutions. Updates are incoming as I continue my DevOps journey!
+Hello! I'm Reineir, an associate Cloud DevOps engineer with a passion for cloud computing and automation. I love exploring new technologies and implementing efficient solutions. Updates are incoming as I continue my DevOps journey!
 
 ---
 
