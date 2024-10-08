@@ -1,4 +1,4 @@
-<h1 align="center">Reineir Duran · Aspiring Cloud DevOps Engineer</h1>
+<h1 align="center">Reineir Duran · Associate Cloud DevOps Engineer</h1>
 <h3 align="center">April 2024 ECE Board Exam Topnotcher (Top 3) | AWS Certified Cloud Practitioner</h3>
 
 ---
